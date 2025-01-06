@@ -1,13 +1,18 @@
 # Hi there! 👋 I'm Roshan Prajapati
 
-Welcome to my GitHub profile! I'm a Computer Science enthusiast passionate about building scalable and user-centric applications. Here's a little about me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan21p&label=Profile%20views&color=0e75b6&style=flat" alt="roshan21p" /> </p>
 
-## 🚀 About Me
-- 🌱 Currently learning **Data Structures and Algorithms** in Java to strengthen my problem-solving skills.
-- 💻 Experienced in full-stack development using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).
-- 🎓 Developed projects like **LearnHub** and **Pizzify**, which showcase my expertise in building real-world applications.
-- ✨ Passionate about creating **fully responsive** and intuitive user interfaces.
 
+# Welcome to my GitHub profile! 🚀  
+
+I'm a Computer Engineering student passionate about exploring cutting-edge technologies and contributing to impactful projects.  
+
+## 🌟 About Me  
+- 🌱 Currently strengthening my problem-solving skills by learning **Data Structures and Algorithms in Java**.  
+- 💻 Proficient in **full-stack development** with the MERN stack (MongoDB, Express.js, React.js, Node.js).  
+- 🎓 Built projects like **LearnHub** and **Piziffiy**, demonstrating expertise in developing real-world, scalable, and user-centric applications.  
+- ✨ Enthusiastic about crafting fully responsive and intuitive **user interfaces**, blending functionality with design.  
+- 🔭 Always eager to learn new technologies and contribute to open-source projects or collaborative ventures.  
 ## 🛠️ Skills
 - **Programming Languages**: Java, JavaScript
 - **Frontend**: React.js, Tailwind CSS, HTML, CSS
@@ -24,17 +29,19 @@ Welcome to my GitHub profile! I'm a Computer Science enthusiast passionate about
 - Built an Admin Dashboard for managing courses, users, and content.
 - Configured Nodemailer for automated email notifications.
 
-### [Pizzify](https://pizza-frontend-seven.vercel.app) - Pizza Ordering Platform
-- Created a pizza ordering platform using the MERN stack with an integrated Stripe payment gateway for secure payments.
-- Implemented a dynamic cart, user authentication with JWT, and order placement functionality.
-- Designed a **fully responsive** user interface to enhance the user experience.
-- Deployed the app on Vercel (frontend) and Render (backend).
+### [Pizzify](https://pizzify-lilac.vercel.app) - Pizza Ordering Platform
+- 🍕 Developed a robust pizza ordering platform using the **MERN stack**, showcasing seamless integration of core e-commerce functionalities.  
+- 💳 Integrated **Stripe payment gateway** for secure and efficient payment processing.  
+- 🛒 Implemented features like a **dynamic cart**, user authentication with **JWT**, and order placement for a smooth checkout experience.  
+- 📊 Added an **admin dashboard** to manage orders and track **real-time order updates** for efficient workflow management.  
+- 📱 Designed a **fully responsive user interface**, enhancing user experience across devices.  
+- 🌐 Deployed the application with the frontend hosted on **Vercel** and the backend on **Render**. 
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/roshan-prajapati-5813291b3)](https://www.linkedin.com/in/roshan-prajapati-5813291b3)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/roshan-prajapati-960100308)](https://www.linkedin.com/in/roshan-prajapati-960100308/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black&link=https://leetcode.com/u/Roshanpr_21)](https://leetcode.com/u/Roshanpr_21)
-[![Resume](https://img.shields.io/badge/-Resume-grey?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://drive.google.com/file/d/160FNlS_Qr4ruD8BXu_YROBBrR9M0R0nv/view?usp=sharing)](https://drive.google.com/file/d/160FNlS_Qr4ruD8BXu_YROBBrR9M0R0nv/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/-Resume-grey?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://drive.google.com/file/d/18nKJnlXk3q8llVIOZ-5z2kBqNRFNMIQY/view?usp=sharing)](https://drive.google.com/file/d/18nKJnlXk3q8llVIOZ-5z2kBqNRFNMIQY/view?usp=sharing)
 
 
 ###
